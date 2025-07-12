@@ -20,7 +20,7 @@
 
 ; Fan port configuration for brake lights
 (def fan-port-brake-enabled 1)
-(def fan-port-duty-cycle 0.8) ; 80% duty cycle for brake lights
+(def fan-port-duty-cycle 0.6) ; 80% duty cycle for brake lights
 
 ; Speed modes (km/h, watts, current scale)
 (def eco-speed (/ 7 3.6))
